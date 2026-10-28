@@ -1,0 +1,6 @@
+# Core Python requirements for Ghost Data Still Exists Deletion Audit Agent
+# Python 3.9+ recommended
+
+pypdf>=3.0.0
+Pillow>=9.0.0
+
