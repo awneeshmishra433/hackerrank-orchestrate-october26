@@ -1,0 +1,6 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+extra_01,elena.rostova@fastmail.com,2026-08-15T09:00:00Z,COMPLETE,2026-08-17T11:00:00Z,2026-09-05T12:00:00Z,"Please erase all my personal data and close my account immediately under GDPR Article 17 right to erasure."
+extra_02,haruto.sato@yahoo.co.jp,2026-08-18T14:30:00Z,COMPLETE,2026-08-20T10:00:00Z,2026-09-02T18:00:00Z,"私の個人情報およびアカウントの完全な削除を要請します。関連するすべてのログおよび記録を削除または匿名化してください。"
+extra_03,carlos.mendez@empresa.es,2026-08-22T08:15:00Z,COMPLETE,2026-08-24T12:00:00Z,2026-09-08T09:30:00Z,"Solicito la eliminacin completa y definitiva de mi cuenta y todos mis datos personales almacenados en su plataforma."
+extra_04,stefan.weber@gmx.de,2026-08-25T11:00:00Z,NOT_STARTED,2026-08-25T11:00:00Z,2026-09-01T10:00:00Z,"Ich bitte um eine vollstndige Kopie aller meiner gespeicherten personenbezogenen Daten gem DSGVO Art. 15 (Datenauskunft)."
+
